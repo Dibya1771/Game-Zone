@@ -20,7 +20,7 @@ Game Zone is an online gaming website that offers a one-stop destination for gam
 • Real-time score display for each game and high scores are stored and retrieved from the database.  
 • Users can contact the website administrators through the Contact Us tab.  
 ### Sample Output:
-#### Demo video:  
+#### Tutorial Video:  
 
 https://github.com/Dibya1771/Game-Zone/assets/108383867/e0b4fe82-472d-4ff9-adb5-7b9789f6b27c
 #### Screenshot:  
